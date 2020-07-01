@@ -1,6 +1,6 @@
 @Library('my-shared-library@master')
-import selenium test
-def pip = new selenium test()
+import seleniumtest
+def pip = new seleniumtest()
 pip('jiraCucumber')
 //import jiraCucumber
   //def pipe = new jiraCucumber()
